@@ -24,7 +24,6 @@ for(int i = 0; i < 4; i++)
     Console.WriteLine("  animal " + i + " " + animals[i].ToString());
 }
 
-
 Big b = new Big();
 Console.WriteLine(" Big" + b +"   "+ b.ToString() + "  " + b.Name);
 
